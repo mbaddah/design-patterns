@@ -1,4 +1,4 @@
-package structural.singleton;
+package creational.singleton;
 
 import org.junit.jupiter.api.Test;
 

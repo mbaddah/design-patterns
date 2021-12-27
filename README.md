@@ -1,14 +1,17 @@
-# design-patterns
+# Design-patterns examples
 
-Based off the GoF design patterns, this suite will primarily be aimed at showcasing the popular design pattern segregated by type, i.e behavioral, creational and structural.
+This suite will primarily be aimed at showcasing the popular design patterns. Examples include:
+
+- GoF:
+  - Behavioral
+  - Creational
+  - Structural.
+- Dependency injection using popular frameworks such as:
+  - Picocontainer
+  - Spring
+  - Dagger 2
 
 Tech stack
 - Java
 - Gradle
 - Junit
-
-Lots to do!
-- Complete an example of each pattern
-- Added tests for each pattern
-
-All in due time :-)

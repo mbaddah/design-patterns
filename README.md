@@ -15,3 +15,9 @@ Tech stack
 - Java
 - Gradle
 - Junit
+
+
+To-do:
+- complete all patterns
+- add more unit tests
+- add more samples
